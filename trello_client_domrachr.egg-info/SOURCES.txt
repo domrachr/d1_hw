@@ -1,0 +1,6 @@
+README.md
+setup.py
+trello_client_domrachr.egg-info/PKG-INFO
+trello_client_domrachr.egg-info/SOURCES.txt
+trello_client_domrachr.egg-info/dependency_links.txt
+trello_client_domrachr.egg-info/top_level.txt
